@@ -1,0 +1,8 @@
+{
+  "name": "Crown & Blade Barbershop",
+  "description": "Premium men's grooming salon featuring bespoke haircuts, skin fades, hot towel straight-razor shaves, and beard craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
